@@ -3,7 +3,6 @@ Construisez un site e-commerce en JavaScript "Kanap"
 
 
 Créer des interfaces dynamiques
-Le site hébergé sur GitHub : Kanap
 
 🔨 Construire un site Web e-commerce en Javascript
 
